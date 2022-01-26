@@ -40,7 +40,7 @@
 
 Grafico tiempo vs hilos
 
-![](img/ImagenTablaGrafica.png)
+![](img/tabla.png)
 
 ![](img/ImagenGrafico.png)
 
