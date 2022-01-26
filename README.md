@@ -20,7 +20,7 @@
 
 1. Un solo hilo.
 
-![](img/Imagen1 - 1Hilo.png)
+![](/img/Imagen1 - 1Hilo.png)
 
 2.Tantos hilos como núcleos de procesamiento
 
