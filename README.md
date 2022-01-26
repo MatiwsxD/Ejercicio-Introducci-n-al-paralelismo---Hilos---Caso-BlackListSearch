@@ -20,29 +20,29 @@
 
 1. Un solo hilo.
 
-![](https://raw.githubusercontent.com/MatiwsxD/Ejercicio-Introducci-n-al-paralelismo---Hilos---Caso-BlackListSearch/img/Imagen1 - 1Hilo.png)
+![](img/Imagen1Hilo.png)
 
 2.Tantos hilos como núcleos de procesamiento
 
-![](img/Imagen2 - 4Hilos.png)
+![](img/Imagen4Hilos.png)
 
 3. Tantos hilos como el doble de nucleos de procesamiento
 
-![](img/Imagen3 - 8Hilos.png)
+![](img/Imagen8Hilos.png)
 
 4. 50 hilos
 
-![](img/Imagen4 - 50Hilos.png)
+![](img/Imagen50Hilos.png)
 
 5. 100 hilos
 
-![](img/Imagen - 100Hilos.png)
+![](img/Imagen100Hilos.png)
 
 Grafico tiempo vs hilos
 
-![](img/Imagen6 - tablaGrafica.png)
+![](img/ImagenTablaGrafica.png)
 
-![](img/Imagen7 - Grafico.png)
+![](img/ImagenGrafico.png)
 
 **Parte IV Ejercicio Black List Search**
 
