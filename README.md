@@ -20,29 +20,29 @@
 
 1. Un solo hilo.
 
-![](img/Imagen1 - 1Hilo.PNG)
+![](img/Imagen1 - 1Hilo.png)
 
 2.Tantos hilos como núcleos de procesamiento
 
-![](img/Imagen2 - 4Hilos.PNG)
+![](img/Imagen2 - 4Hilos.png)
 
 3. Tantos hilos como el doble de nucleos de procesamiento
 
-![](img/Imagen3 - 8Hilos.PNG)
+![](img/Imagen3 - 8Hilos.png)
 
 4. 50 hilos
 
-![](img/Imagen4 - 50Hilos.PNG)
+![](img/Imagen4 - 50Hilos.png)
 
 5. 100 hilos
 
-![](img/Imagen - 100Hilos.PNG)
+![](img/Imagen - 100Hilos.png)
 
 Grafico tiempo vs hilos
 
-![](img/Imagen6 - tablaGrafica.PNG)
+![](img/Imagen6 - tablaGrafica.png)
 
-![](img/Imagen7 - Grafico.PNG)
+![](img/Imagen7 - Grafico.png)
 
 **Parte IV Ejercicio Black List Search**
 
