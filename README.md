@@ -20,7 +20,7 @@
 
 1. Un solo hilo.
 
-![](/img/Imagen1 - 1Hilo.png)
+![](https://raw.githubusercontent.com/MatiwsxD/Ejercicio-Introducci-n-al-paralelismo---Hilos---Caso-BlackListSearch/img/Imagen1 - 1Hilo.png)
 
 2.Tantos hilos como núcleos de procesamiento
 
