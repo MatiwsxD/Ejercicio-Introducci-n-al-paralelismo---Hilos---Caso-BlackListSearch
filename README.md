@@ -50,3 +50,6 @@ Grafico tiempo vs hilos
 2. En ambos casos se demoran una gran cantidad de tiempo, sin embargo, utilizando 8 hilos que es el doble de núcleos de procesamiento tiende a tomar un poco mas de tiempo en dar una solución  
 3. Como se menciono anteriormente realmente a mas hilos mejor el rendimiento por lo que si se usan 100 maquinas, pero en cada maquina se usa un solo hilos, el gasto en tiempo y en recursos será mucho mayor a lo que realmente se podría gastar manejando más hilos. 
 
+###Integrantes
+- Julian Adolfo Peña (2146251)
+- Juan Mateo Mejia (2154840)
